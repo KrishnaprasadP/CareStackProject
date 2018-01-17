@@ -1,0 +1,9 @@
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\bin\Debug\EmployeeModels.dll
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\bin\Debug\EmployeeModels.pdb
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\obj\Debug\EmployeeModels.csprojResolveAssemblyReference.cache
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\obj\Debug\EmployeeModels.dll
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\obj\Debug\EmployeeModels.pdb
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krishnaprasad\documents\visual studio 2015\Projects\Carestack_Project\EmployeeModels\bin\Debug\Newtonsoft.Json.xml
